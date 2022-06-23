@@ -10,7 +10,7 @@ The Platform
 git@github.com:Trevor2002-maker/movie-app.git
 (
 ## Live Link
-[Portfolio Website](https://trevor2002-maker.github.io/movie-app/)
+[Movie App](https://trevor2002-maker.github.io/movie-app/)
 
 ## Licenses
 [MIT](https://choosealicense.com/licenses/mit/)
